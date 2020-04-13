@@ -1,2 +1,1 @@
-# AlgorithmCheatSheet.github.io
-README repo for this organization
+> README repo for this organization.
